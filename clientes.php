@@ -3,9 +3,9 @@
 <title>CONSULTA CLIENTES</title> 
 //<?php
 //$email=$_GET["email"];
-echo "CORREO DEL PROFESOR    ";
+//echo "CORREO DEL PROFESOR    ";
 //echo $email;
-include ("conexion.php"); //Incluye php  para conectarse a la base de datos
+//include ("conexion.php"); //Incluye php  para conectarse a la base de datos
 $link=Conectarse();
 //?>
 <table align="left" width="83%" border="2">
@@ -52,7 +52,7 @@ $link=Conectarse();
 	
 	</tr>
 
-*/<?php
+<?php
      $k++;
      }
 ?>  
